@@ -8,6 +8,7 @@
     "lint": "eslint --ext .ts,.js,.vue ."
   },
   "devDependencies": {
+    "@nuxt/content": "npm:@nuxt/content-edge@latest",
     "@nuxtjs/eslint-config-typescript": "^10.0.0",
     "@nuxtlabs/github-module": "^1.4.6",
     "eslint": "^8.21.0",
